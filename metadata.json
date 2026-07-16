@@ -1,0 +1,6 @@
+{
+  "name": "My Home Stories",
+  "description": "Premium Bespoke Furniture Manufacturer in Kashmir. Handcrafted luxury furniture designed for elegance, comfort, and timeless beauty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
